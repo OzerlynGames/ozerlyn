@@ -1,6 +1,6 @@
 <!-- 🧩 OZERLYN README - Bilingual Edition -->
 <p align="center">
-  <img src="https://www.ozerlyn.com/og-image.png" alt="Ozerlyn Sudoku Banner" width="100%" />
+  <img src="https://ozerlyn.com/favicons/favicon-512x512.png" alt="Ozerlyn Sudoku Banner" width="100%" />
 </p>
 
 <h1 align="center">🧩 Ozerlyn Games</h1>
